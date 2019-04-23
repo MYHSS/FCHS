@@ -3,18 +3,18 @@ The UA-DETRAC result
 
 New Tracker:
 
-  Tracker Name:  FCHS
+         Tracker Name:  FCHS
   
-  Participation level:  Overall
+         Participation level:  Overall
   
-  Evaluation method: DETRAC-MOT
+         Evaluation method: DETRAC-MOT
   
-  Detection input:  R-CNN
+         Detection input:  R-CNN
   
-  Development language:  Python
+         Development language:  Python
   
-  Environment:  Inter Core i5-4210U @2.4GHz and 4GB RAM
+         Environment:  Inter Core i5-4210U @2.4GHz and 4GB RAM
   
-  Anonymous submission
+         Anonymous submission
 
 The result is FCHS.zip
